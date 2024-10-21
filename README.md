@@ -58,5 +58,4 @@ In the main program section, the following operations are performed:
      ```bash
      pip install reportlab
 ## Example Output:
-     ```bash 
-     Generated PDF size is --> X.XX MB
+- Generated PDF size is --> X.XX MB
